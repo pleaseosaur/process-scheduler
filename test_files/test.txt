@@ -1,0 +1,11 @@
+P1700:10
+arrival_t:1
+io:2
+exe:3
+io:5
+exe:4
+terminate
+P456:5
+arrival_t:3
+exe:3
+terminate

@@ -1,0 +1,12 @@
+P1763:12
+arrival_t:10
+exe:6
+exe:1
+exe:1
+terminate
+P1002:54
+arrival_t:14
+exe:2
+io:3
+terminate
+
